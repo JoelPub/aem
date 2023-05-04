@@ -1,0 +1,1 @@
+AEM_6.5_Quickstart.jar filter=lfs diff=lfs merge=lfs -text
